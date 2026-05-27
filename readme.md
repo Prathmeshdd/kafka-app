@@ -23,7 +23,7 @@ docker run -p 9092:9092 \
 confluentinc/cp-kafka
 ``` -->
 
-`zookeeper was needs on older version.on new version we just needs to run below command whoch uses kraft internally.`
+`zookeeper was needs on older version.on new version we just needs to run below command which uses kraft internally.`
 
 `bash command`
 
